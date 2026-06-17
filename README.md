@@ -1,5 +1,6 @@
 # my_hash_c-_libary
 بسم الله الرحمن الرحيم
+
 Overview
 The Black Hole Hash is a bitwise-intensive algorithm that employs confusion and diffusion techniques to ensure high avalanche effects. The core design focuses on minimizing branching and leveraging modern C++20 features (such as <bit> for rotation operations) to achieve optimal performance on x86/ARM architectures.
 
